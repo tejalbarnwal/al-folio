@@ -1,12 +1,12 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 description:
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: me4.jpeg
   address: 
 
 news: false  # includes a list of news items
